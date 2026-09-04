@@ -1,0 +1,118 @@
+[
+  {
+    "question": "How do I create an account?",
+    "answer": "Click Sign Up, enter your name and email address, create a password, and submit the registration form."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "Click 'Forgot Password' on the login page and follow the instructions sent to your registered email."
+  },
+  {
+    "question": "How do I change my password?",
+    "answer": "Log in, open Account Settings, select Change Password, enter your current password and your new password, then save."
+  },
+  {
+    "question": "How can I contact customer support?",
+    "answer": "You can contact customer support through the Help Center or the support email provided on the website."
+  },
+  {
+    "question": "What payment methods are supported?",
+    "answer": "We support credit cards, debit cards, UPI, and net banking."
+  },
+  {
+    "question": "How do I cancel my order?",
+    "answer": "Open Orders, select the order you want to cancel, and click Cancel Order. Cancellation depends on order status."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "Open the Orders section and select your order to view its current tracking status."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Standard delivery generally takes 3 to 7 business days, depending on your location."
+  },
+  {
+    "question": "Can I change my delivery address?",
+    "answer": "You can change the delivery address before the order is shipped. Contact support if the option is unavailable."
+  },
+  {
+    "question": "What is the return policy?",
+    "answer": "Eligible products can usually be returned within the specified return period. Check the product's return policy for details."
+  },
+  {
+    "question": "How do I request a refund?",
+    "answer": "Open your order, select the eligible item, choose Return or Refund, and follow the instructions."
+  },
+  {
+    "question": "How long does a refund take?",
+    "answer": "After approval, refunds are normally processed within 5 to 10 business days, depending on the payment provider."
+  },
+  {
+    "question": "Is cash on delivery available?",
+    "answer": "Cash on delivery may be available for eligible products and locations."
+  },
+  {
+    "question": "How do I update my email address?",
+    "answer": "Go to Account Settings, update your email address, and complete any verification required."
+  },
+  {
+    "question": "How do I update my phone number?",
+    "answer": "Open Account Settings, edit your phone number, and verify it using the OTP if requested."
+  },
+  {
+    "question": "How do I delete my account?",
+    "answer": "Go to Account Settings and choose Delete Account. You may be asked to confirm your decision."
+  },
+  {
+    "question": "Is my personal information secure?",
+    "answer": "We use standard security practices to protect account and transaction information."
+  },
+  {
+    "question": "What should I do if my payment failed?",
+    "answer": "Check your payment details and try again. If money was deducted, wait for the transaction to be reconciled or contact support."
+  },
+  {
+    "question": "Why has my order not been shipped?",
+    "answer": "Orders can be delayed because of payment verification, inventory issues, weekends, holidays, or logistics delays."
+  },
+  {
+    "question": "Can I cancel an order after it has shipped?",
+    "answer": "Usually an order cannot be cancelled after shipping. You may need to use the return process after delivery."
+  },
+  {
+    "question": "How do I apply a coupon?",
+    "answer": "Enter the coupon code in the coupon or promo-code field during checkout and apply it before placing the order."
+  },
+  {
+    "question": "Why is my coupon not working?",
+    "answer": "Check the coupon's expiry date, minimum order value, eligible products, and usage conditions."
+  },
+  {
+    "question": "Do you offer international delivery?",
+    "answer": "International delivery depends on the destination and product. Check the shipping options available at checkout."
+  },
+  {
+    "question": "How can I report a damaged product?",
+    "answer": "Contact customer support as soon as possible and provide your order number and photos of the damaged product."
+  },
+  {
+    "question": "What happens if I receive the wrong product?",
+    "answer": "Contact support with your order details and photos. The team can guide you through replacement or return options."
+  },
+  {
+    "question": "How do I know if an item is in stock?",
+    "answer": "The product page displays the current availability status. Out-of-stock items may show an option to receive a restock notification."
+  },
+  {
+    "question": "Can I change my order after placing it?",
+    "answer": "Order changes may be possible before processing or shipping. Contact support as soon as possible."
+  },
+  {
+    "question": "How do I log out?",
+    "answer": "Open your account menu and select Log Out."
+  },
+  {
+    "question": "How can I give feedback?",
+    "answer": "You can submit feedback through the Help Center, support form, or feedback option available on the website."
+  }
+]
